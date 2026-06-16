@@ -84,36 +84,6 @@
 ![DSA](https://img.shields.io/badge/DSA-000000.svg?style=for-the-badge&logo=codeforces&logoColor=white)
 ![OOPS](https://img.shields.io/badge/OOPS-1E90FF.svg?style=for-the-badge)
 
-<h3>GitHub Stats</h3>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://streak-stats.vercel.app/?user=rohithreddygk&theme=default&cache_seconds=86400"
-        height="200"
-      />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" colspan="2">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithreddygk&theme=vue&cache_seconds=86400"
-        height="200"
-      />
-    </td>
-  </tr>
-</table>
-
-<h3>Achievements</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Projects-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Research-Oriented-orange?style=for-the-badge" />
-</p>
-
 <p>
   <img
     src="https://komarev.com/ghpvc/?username=rohithreddygk&label=Profile+Views&color=1e90ff&style=flat"
