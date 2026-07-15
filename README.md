@@ -11,7 +11,7 @@
 🤝 Open to collaborations in **AI/ML & Full Stack**  
 💬 Ask me about **Java, Python, React, AI/ML**  
 🌐 Portfolio: **[rohith-portfolio-gk.netlify.app](https://rohith-portfolio-gk.netlify.app/)**  
-📄 Resume: **[View Here](https://drive.google.com/file/d/1wC9zLjQlqQzXo63qHl8Uy-ooNcYjS3H3/view?usp=drive_link)**  
+📄 Resume: **[View Here](https://drive.google.com/file/d/1_Cc4XuUZ1_W6diYOxhAPAHrj75ITIx46/view?usp=sharing)**  
 📧 Email: **gkrohithreddy@gmail.com**
 
 <h3>Connect With Me</h3>
