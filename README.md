@@ -83,3 +83,11 @@
 
 ![DSA](https://img.shields.io/badge/DSA-000000.svg?style=for-the-badge&logo=codeforces&logoColor=white)
 ![OOPS](https://img.shields.io/badge/OOPS-1E90FF.svg?style=for-the-badge)
+
+<h3>Achievements</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Projects-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research-Oriented-orange?style=for-the-badge" />
+</p>
