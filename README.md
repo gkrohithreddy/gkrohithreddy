@@ -83,9 +83,3 @@
 
 ![DSA](https://img.shields.io/badge/DSA-000000.svg?style=for-the-badge&logo=codeforces&logoColor=white)
 ![OOPS](https://img.shields.io/badge/OOPS-1E90FF.svg?style=for-the-badge)
-
-<p>
-  <img
-    src="https://komarev.com/ghpvc/?username=rohithreddygk&label=Profile+Views&color=1e90ff&style=flat"
-  />
-</p>
